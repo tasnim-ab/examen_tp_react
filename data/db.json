@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "admin@familydo.tn",
+      "password": "admin",
+      "firstName": "Admin",
+      "lastName": "FamilyDo",
+      "phone": "00000000"
+    },
+    {
+      "id": "2300",
+      "firstName": "tasnim",
+      "lastName": "abichou",
+      "phone": "50508879",
+      "email": "df@gmail.com",
+      "password": "admin",
+      "role": "member"
+    }
+  ],
+  "members": [
+    {
+      "id": "2300",
+      "firstName": "tasnim",
+      "lastName": "abichou",
+      "phone": "50508879",
+      "email": "df@gmail.com",
+      "password": "admin"
+    },
+    {
+      "id": "4732",
+      "firstName": "nahla",
+      "lastName": "ab",
+      "phone": "20123456",
+      "email": "dd@gmail.com",
+      "password": "admin"
+    }
+  ],
+  "taskTypes": [
+    {
+      "id": "1",
+      "title": "Ménage"
+    },
+    {
+      "id": "2",
+      "title": "Cuisine"
+    },
+    {
+      "id": "3",
+      "title": "Courses"
+    },
+    {
+      "id": "bb5d",
+      "title": "bricolage"
+    }
+  ],
+  "tasks": [
+    {
+      "title": "nettoyer",
+      "description": "fffg",
+      "status": "achevée",
+      "typeId": "1",
+      "memberId": "2300",
+      "id": "9a1f"
+    },
+    {
+      "id": "391e",
+      "title": "Menage de salon",
+      "description": "gggggf",
+      "status": "planifiée",
+      "typeId": "1",
+      "memberId": "2300",
+      "createdAt": "2025-11-28T10:18:53.813Z"
+    }
+  ]
+}
